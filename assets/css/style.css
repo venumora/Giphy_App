@@ -27,6 +27,10 @@ body {
 	margin-bottom: 70px;
 }
 
+input[type="button"] {
+	margin: 10px;
+}
+
 h1 {
 	font-size: 2em;
 }
@@ -80,4 +84,13 @@ a {
 
 .pos-a {
 	position: absolute;
+}
+
+.gif-image {
+	width: 200px;
+	height: 200px;
+}
+
+.image-container {
+	margin-bottom: 30px;
 }
